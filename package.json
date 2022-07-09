@@ -1,0 +1,22 @@
+{
+  "name": "task-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parshvavyas17/task-manager.git"
+  },
+  "author": "Parshva Vyas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parshvavyas17/task-manager/issues"
+  },
+  "homepage": "https://github.com/Parshvavyas17/task-manager#readme",
+  "dependencies": {
+    "mongodb": "^4.7.0"
+  }
+}
